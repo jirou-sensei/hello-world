@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+I'm Jirou, a startling web developer and game designer.
